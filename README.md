@@ -77,3 +77,6 @@ method add_item diambil dari modul main.py digunakan untuk menambahkan item. Dal
 
 6. Melakukan cek total harga dengan menggunakan total_price_print()
 ![total](https://user-images.githubusercontent.com/111468833/230785508-5d7532cb-5d70-4eb2-ab4e-2ac18c8c3cc4.png)
+	
+## Kesimpulan
+Project ini merupakan sistem kasir mandiri sederhana yang dibuat menggunakan bahasa pemrograman Python untuk memudahkan customer dalam melakukan transaksi belanja. Fitur-fitur yang dimiliki sistem ini adalah menambahkan item, memperbarui nama item, memperbarui jumlah item, memperbarui harga item, menghapus salah satu item, menghapus seluruh item, menghitung total harga item dan diskon yang didapatkan, dan menampilkan tabel keranjang belanja.
